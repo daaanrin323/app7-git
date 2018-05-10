@@ -25,7 +25,7 @@ Rodrigo Daniel Bautista Pérez
 <preference name="permissions"  value="INTERNET"/>
 
 <!--Para accesar a paginas en internet-->
-<allow-intent href="https://*/*/"/>
+<allow-intent href="https://*/*"/>
 <acces origin="https://*/*"/>
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
